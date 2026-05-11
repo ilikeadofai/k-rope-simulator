@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="390" viewBox="0 0 620 390">
+<rect width="100%" height="100%" fill="white"/>
+<text x="310" y="28" text-anchor="middle" font-size="16" font-family="sans-serif">RoPE와 K-RoPE의 안정성 비교</text>
+<text x="310" y="50" text-anchor="middle" font-size="12" font-family="sans-serif">값이 작을수록 어순 변화 후 같은 문법 관계 표현이 안정적</text>
+<line x1="80" y1="310" x2="560" y2="310" stroke="#333"/>
+<line x1="80" y1="80" x2="80" y2="310" stroke="#333"/>
+<rect x="125" y="134.0" width="120" height="176.0" fill="#8884d8"/>
+<text x="185.0" y="126.0" text-anchor="middle" font-size="12" font-family="monospace">0.204</text>
+<text x="185.0" y="332" text-anchor="middle" font-size="12" font-family="sans-serif">RoPE</text>
+<rect x="300" y="183.60171308056275" width="120" height="126.39828691943725" fill="#82ca9d"/>
+<text x="360.0" y="175.60171308056275" text-anchor="middle" font-size="12" font-family="monospace">0.146</text>
+<text x="360.0" y="332" text-anchor="middle" font-size="12" font-family="sans-serif">Additive K-RoPE</text>
+<rect x="475" y="209.66737526696673" width="120" height="100.33262473303327" fill="#ffc658"/>
+<text x="535.0" y="201.66737526696673" text-anchor="middle" font-size="12" font-family="monospace">0.116</text>
+<text x="535.0" y="332" text-anchor="middle" font-size="12" font-family="sans-serif">Dual-axis K-RoPE</text>
+</svg>

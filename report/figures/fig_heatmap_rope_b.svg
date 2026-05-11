@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="406" height="374" viewBox="0 0 406 374">
+<rect width="100%" height="100%" fill="white"/>
+<text x="203.0" y="28" text-anchor="middle" font-size="16" font-family="sans-serif">RoPE: 영희를 철수가 좋아한다</text>
+<text x="161.0" y="60" text-anchor="middle" font-size="13" font-family="sans-serif">영희를</text>
+<text x="243.0" y="60" text-anchor="middle" font-size="13" font-family="sans-serif">철수가</text>
+<text x="325.0" y="60" text-anchor="middle" font-size="13" font-family="sans-serif">좋아한다</text>
+<text x="110" y="124.0" text-anchor="end" font-size="13" font-family="sans-serif">영희를</text>
+<text x="110" y="206.0" text-anchor="end" font-size="13" font-family="sans-serif">철수가</text>
+<text x="110" y="288.0" text-anchor="end" font-size="13" font-family="sans-serif">좋아한다</text>
+<rect x="120" y="78" width="82" height="82" fill="#257f85" stroke="white"/>
+<text x="161.0" y="124.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.44</text>
+<rect x="202" y="78" width="82" height="82" fill="#296d7e" stroke="white"/>
+<text x="243.0" y="124.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.38</text>
+<rect x="284" y="78" width="82" height="82" fill="#363668" stroke="white"/>
+<text x="325.0" y="124.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.19</text>
+<rect x="120" y="160" width="82" height="82" fill="#267982" stroke="white"/>
+<text x="161.0" y="206.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.42</text>
+<rect x="202" y="160" width="82" height="82" fill="#218d8a" stroke="white"/>
+<text x="243.0" y="206.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.49</text>
+<rect x="284" y="160" width="82" height="82" fill="#3d1b5e" stroke="white"/>
+<text x="325.0" y="206.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.09</text>
+<rect x="120" y="242" width="82" height="82" fill="#373568" stroke="white"/>
+<text x="161.0" y="288.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.18</text>
+<rect x="202" y="242" width="82" height="82" fill="#3e185d" stroke="white"/>
+<text x="243.0" y="288.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.08</text>
+<rect x="284" y="242" width="82" height="82" fill="#89b95b" stroke="white"/>
+<text x="325.0" y="288.0" text-anchor="middle" font-size="15" fill="white" font-family="monospace">0.74</text>
+</svg>

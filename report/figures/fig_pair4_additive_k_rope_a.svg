@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="627" height="594" viewBox="0 0 627 594">
+<rect width="100%" height="100%" fill="white"/>
+<text x="313.5" y="28" text-anchor="middle" font-size="16" font-family="sans-serif">Additive K-RoPE: 민수가 어제 도서관에서 빌린 책을 읽었다</text>
+<text x="171.0" y="72" text-anchor="middle" font-size="11" font-family="sans-serif" transform="rotate(-22 171.0 72)">민수가</text>
+<text x="243.0" y="72" text-anchor="middle" font-size="11" font-family="sans-serif" transform="rotate(-22 243.0 72)">어제</text>
+<text x="315.0" y="72" text-anchor="middle" font-size="11" font-family="sans-serif" transform="rotate(-22 315.0 72)">도서관에서</text>
+<text x="387.0" y="72" text-anchor="middle" font-size="11" font-family="sans-serif" transform="rotate(-22 387.0 72)">빌린</text>
+<text x="459.0" y="72" text-anchor="middle" font-size="11" font-family="sans-serif" transform="rotate(-22 459.0 72)">책을</text>
+<text x="531.0" y="72" text-anchor="middle" font-size="11" font-family="sans-serif" transform="rotate(-22 531.0 72)">읽었다</text>
+<text x="125" y="133.0" text-anchor="end" font-size="12" font-family="sans-serif">민수가</text>
+<text x="125" y="205.0" text-anchor="end" font-size="12" font-family="sans-serif">어제</text>
+<text x="125" y="277.0" text-anchor="end" font-size="12" font-family="sans-serif">도서관에서</text>
+<text x="125" y="349.0" text-anchor="end" font-size="12" font-family="sans-serif">빌린</text>
+<text x="125" y="421.0" text-anchor="end" font-size="12" font-family="sans-serif">책을</text>
+<text x="125" y="493.0" text-anchor="end" font-size="12" font-family="sans-serif">읽었다</text>
+<rect x="135" y="92" width="72" height="72" fill="#305273" stroke="white"/>
+<text x="171.0" y="133.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.28</text>
+<rect x="207" y="92" width="72" height="72" fill="#401059" stroke="white"/>
+<text x="243.0" y="133.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.05</text>
+<rect x="279" y="92" width="72" height="72" fill="#3d195d" stroke="white"/>
+<text x="315.0" y="133.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.09</text>
+<rect x="351" y="92" width="72" height="72" fill="#3e165c" stroke="white"/>
+<text x="387.0" y="133.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.08</text>
+<rect x="423" y="92" width="72" height="72" fill="#3a2763" stroke="white"/>
+<text x="459.0" y="133.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.13</text>
+<rect x="495" y="92" width="72" height="72" fill="#2a6a7d" stroke="white"/>
+<text x="531.0" y="133.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.37</text>
+<rect x="135" y="164" width="72" height="72" fill="#392a64" stroke="white"/>
+<text x="171.0" y="205.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.15</text>
+<rect x="207" y="164" width="72" height="72" fill="#382e65" stroke="white"/>
+<text x="243.0" y="205.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.16</text>
+<rect x="279" y="164" width="72" height="72" fill="#3b2461" stroke="white"/>
+<text x="315.0" y="205.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.12</text>
+<rect x="351" y="164" width="72" height="72" fill="#363869" stroke="white"/>
+<text x="387.0" y="205.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.19</text>
+<rect x="423" y="164" width="72" height="72" fill="#33436d" stroke="white"/>
+<text x="459.0" y="205.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.23</text>
+<rect x="495" y="164" width="72" height="72" fill="#392c64" stroke="white"/>
+<text x="531.0" y="205.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.15</text>
+<rect x="135" y="236" width="72" height="72" fill="#34416c" stroke="white"/>
+<text x="171.0" y="277.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.22</text>
+<rect x="207" y="236" width="72" height="72" fill="#3b2160" stroke="white"/>
+<text x="243.0" y="277.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.11</text>
+<rect x="279" y="236" width="72" height="72" fill="#392b64" stroke="white"/>
+<text x="315.0" y="277.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.15</text>
+<rect x="351" y="236" width="72" height="72" fill="#3b2562" stroke="white"/>
+<text x="387.0" y="277.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.13</text>
+<rect x="423" y="236" width="72" height="72" fill="#392b64" stroke="white"/>
+<text x="459.0" y="277.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.15</text>
+<rect x="495" y="236" width="72" height="72" fill="#33466f" stroke="white"/>
+<text x="531.0" y="277.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.24</text>
+<rect x="135" y="308" width="72" height="72" fill="#392a64" stroke="white"/>
+<text x="171.0" y="349.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.14</text>
+<rect x="207" y="308" width="72" height="72" fill="#3a2662" stroke="white"/>
+<text x="243.0" y="349.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.13</text>
+<rect x="279" y="308" width="72" height="72" fill="#3d1b5e" stroke="white"/>
+<text x="315.0" y="349.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.09</text>
+<rect x="351" y="308" width="72" height="72" fill="#363869" stroke="white"/>
+<text x="387.0" y="349.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.19</text>
+<rect x="423" y="308" width="72" height="72" fill="#305273" stroke="white"/>
+<text x="459.0" y="349.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.28</text>
+<rect x="495" y="308" width="72" height="72" fill="#392e65" stroke="white"/>
+<text x="531.0" y="349.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.16</text>
+<rect x="135" y="380" width="72" height="72" fill="#392d65" stroke="white"/>
+<text x="171.0" y="421.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.15</text>
+<rect x="207" y="380" width="72" height="72" fill="#3d1c5e" stroke="white"/>
+<text x="243.0" y="421.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.10</text>
+<rect x="279" y="380" width="72" height="72" fill="#3f145b" stroke="white"/>
+<text x="315.0" y="421.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.07</text>
+<rect x="351" y="380" width="72" height="72" fill="#373267" stroke="white"/>
+<text x="387.0" y="421.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.17</text>
+<rect x="423" y="380" width="72" height="72" fill="#2d5f78" stroke="white"/>
+<text x="459.0" y="421.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.33</text>
+<rect x="495" y="380" width="72" height="72" fill="#373568" stroke="white"/>
+<text x="531.0" y="421.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.18</text>
+<rect x="135" y="452" width="72" height="72" fill="#2f5574" stroke="white"/>
+<text x="171.0" y="493.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.29</text>
+<rect x="207" y="452" width="72" height="72" fill="#400d58" stroke="white"/>
+<text x="243.0" y="493.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.04</text>
+<rect x="279" y="452" width="72" height="72" fill="#3e165c" stroke="white"/>
+<text x="315.0" y="493.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.08</text>
+<rect x="351" y="452" width="72" height="72" fill="#3f145b" stroke="white"/>
+<text x="387.0" y="493.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.07</text>
+<rect x="423" y="452" width="72" height="72" fill="#3b2562" stroke="white"/>
+<text x="459.0" y="493.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.13</text>
+<rect x="495" y="452" width="72" height="72" fill="#287280" stroke="white"/>
+<text x="531.0" y="493.0" text-anchor="middle" font-size="13" fill="white" font-family="monospace">0.39</text>
+</svg>

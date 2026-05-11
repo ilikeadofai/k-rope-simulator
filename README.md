@@ -8,6 +8,7 @@ This project is an educational Streamlit simulator for analyzing how RoPE-like r
 
 ## 산출물
 
+- 배포 앱: https://k-rope-simulator.streamlit.app/
 - Streamlit 앱: `streamlit_app.py`
 - 계산 코어: `krope_core.py`
 - 수행평가 보고서: [`report/k_rope_report_hwp_tex.md`](report/k_rope_report_hwp_tex.md)
